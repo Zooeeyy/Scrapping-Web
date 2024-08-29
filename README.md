@@ -1,8 +1,16 @@
-# Scrapping-Web
-This repository contains code for scraping the BMKG website using Java script. and processed using python programming.
+# Earthquake Data Visualization | Scrapping-Web | BeautifulSoup
+Test project by Me and my friend [Nur Huda](https://www.linkedin.com/in/nur-huda-riyantoni/). This project contains code for scraping the BMKG website using Java script and processed using python programming.
 
-Results of earthquake distribution from the BMKG realtime earthquake dataset from June 15 2023 to July 4 2023, as follows:
+# Goals
+ - Scraping BMKG website using Java script
+ - Input data into own database
+ - Processed using python programming
+ - Visualization earthquake data
 
+# Details
+Results of earthquake distribution from the BMKG realtime earthquake dataset from June 15 2023 to July 4 2023
+
+# The Visualization
 ![image](https://github.com/Zooeeyy/Scrapping-Web/assets/118145382/fdc7de1a-e547-436f-86ba-42981e9b9dba)
  
 Earthquake Magnitude Frequency:
